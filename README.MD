@@ -14,16 +14,16 @@ This plugin may be installed as discussed in [Insomnia "Managing plugins" docume
 
 ## Usage
 
-### Define name of parameter with JSON data
+1. Define name of parameter with JSON data
 
-![add json parameter]('https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/master/images/edit-tag.png')
+![add json parameter](https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/main/images/add-json-param.png)
 
-![define parameter name]('https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/master/images/edit-tag.png')
+![add json parameter](https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/main/images/edit-tag.png)
 
-### Put JSON data via standart multiline text input
+2. Put JSON data via standart multiline text input
 
-![put json data]('https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/master/images/put-data.png')
+![put json data](https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/main/images/put-data.png)
 
-### To remove unused data (deleted requests etc.)
+3. To remove unused data (deleted requests etc.)
 
-![remove unused data]('https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/master/images/put-data.png')
+![remove unused data](https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/main/images/put-data.png)
