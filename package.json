@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-extract-json-param",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "author": "cinex",
@@ -11,5 +11,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cinex-ru/insomnia-plugin-extract-json-param.git"
-  }
+  },
+  "keywords": [
+    "insomnia-plugin",
+    "insomnia",
+    "plugin"
+  ]
 }
