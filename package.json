@@ -1,0 +1,11 @@
+{
+  "name": "insomnia-plugin-extract-json-param",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "cinex",
+  "insomnia": {
+    "name": "extractor",
+    "description": "Extract json params"
+  }
+}
