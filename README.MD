@@ -26,4 +26,4 @@ This plugin may be installed as discussed in [Insomnia "Managing plugins" docume
 
 3. To remove unused data (deleted requests etc.)
 
-   ![remove unused data](https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/main/images/put-data.png)
+   ![remove unused data](https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/main/images/housekeeping.png)
