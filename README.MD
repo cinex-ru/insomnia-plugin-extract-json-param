@@ -24,6 +24,13 @@ This plugin may be installed as discussed in [Insomnia "Managing plugins" docume
 
    ![put json data](https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/main/images/put-data.png)
 
-3. To remove unused data (deleted requests etc.)
+   ![add json parameter](https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/main/images/query-parameters.png)
+
+3. Send request
+
+   ![add json parameter](https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/main/images/result-request.png)
+
+
+4. To remove unused data (deleted requests etc.)
 
    ![remove unused data](https://raw.githubusercontent.com/cinex-ru/insomnia-plugin-extract-json-param/main/images/housekeeping.png)
